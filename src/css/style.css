@@ -40,3 +40,51 @@ img{
     padding: 20px;
     width: 250px;
 }
+
+.conteudo-centralizado {
+  margin-top: 20vh;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+  background-color: #aa1961; 
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #fff    !important; 
+}
+
+.navbar .nav-link:hover {
+  color: #f8f9fa !important; 
+}
+
+ .conteudo-centralizado {
+  margin-top: 20vh;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+  background-color: #aa1961; 
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #fff    !important; 
+}
+
+.navbar .nav-link:hover {
+  color: #f8f9fa !important; 
+}
+
+h1 {
+    filter: grayscale(100%);
+}
+
+ 
